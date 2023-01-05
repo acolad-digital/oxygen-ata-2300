@@ -13,7 +13,7 @@ According to http://www.ataebiz.org/Pages/standards.aspx#spec2300:
 ## How to start
 
 - [ ] Install oXygenXML **Author** (evaluation version can be download on https://www.oxygenxml.com/xml_author.html)
-- [ ] Install the oXygen ATA2300 framework by downloading the ZIP content https://github.com/Amplexor/oxygen-ata-2300/archive/master.zip or by cloning the current Github project `git clone https://github.com/Amplexor/oxygen-ata-2300.git`
+- [ ] Install the oXygen ATA2300 framework by downloading the ZIP content https://github.com/acolad-digital/oxygen-ata-2300/archive/master.zip or by cloning the current Github project `git clone https://github.com/acolad-digital/oxygen-ata-2300.git`
 - [ ] Download the package with specifications and shemas, [Spec 2300: Data Exchange Standard For Flight Operations](https://publications.airlines.org/CommerceProductDetail.aspx?Product=271). Please note that this set is **not free**. You need to purchase it or subscribe to http://www.ataebiz.org/.
 - [ ] Copy the schemas (*.xsd files) in the "_schemas_" folder from the framework.
   You should end up with a file structuring looking like depicted below:
@@ -21,7 +21,7 @@ According to http://www.ataebiz.org/Pages/standards.aspx#spec2300:
   
 - [ ] Open the ata2300.xpr project. You should now able to author ATA2300 documents.
 
-This framework is provided to you by [AMPLEXOR](https://www.amplexor.com) 
+This framework is provided to you by [Acolad Digital](https://www.acolad.com/en/digital.html) 
 
 
 # Limitations
@@ -36,7 +36,7 @@ No warranty of any kind is provided. You can however open issues in GitHub to su
 
 # Copyright and licence
 
-Copyright 2018-2019 AMPLEXOR
+Copyright 2022-2023 Acolad Digital
 
 This project is licensed under [Apache License 2.0](LICENSE.txt)
 
